@@ -41,6 +41,7 @@ construir / lançar
 # Diretórios de dependência
 node_modules /
 jspm_packages /
+/node_modules
 
 # Diretório de dependências do Snowpack (https://snowpack.dev/)
 web_modules /
