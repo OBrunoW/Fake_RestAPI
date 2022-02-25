@@ -4,6 +4,19 @@
       "id": 1,
       "title": "teste api",
       "author": "Bruno W"
+    },
+
+    {
+      "id": 2,
+      "title": "teste 2",
+      "author": "Bruno W"
+    },
+
+    {
+      "id": 3,
+      "title": "teste 3",
+      "author": "Bruno W"
     }
+
   ]
 }
