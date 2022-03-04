@@ -1,6 +1,5 @@
 {
-  "Suco": {
-    "Natural": [
+  "Suco": [
         {
           "id": 1,
           "marca": "laranja",
@@ -22,48 +21,7 @@
           "preco": 5.10
         }
       ],
-      "Lata": [
-        {
-          "id": 5,
-          "marca": "laranja",
-          "preco": 3.00
-        },
-        {
-          "id": 6,
-          "marca": "abacaxi",
-          "preco": 3.60
-        },
-        {
-          "id": 7,
-          "marca": "manga",
-          "preco": 3.20
-        },
-        {
-          "id": 8,
-          "marca": "morango",
-          "preco": 3.10
-        }
-      ]
-  },
-  "Refrigerante": {
-    "Lata":[
-      {
-        "id": 10,
-        "marca": "fanta",
-        "preco": 5.00
-      },
-      {
-        "id": 20,
-        "marca": "coca-cola",
-        "preco": 5.50
-      },
-      {
-        "id": 30,
-        "marca": "antartica",
-        "preco": 4.50
-      }
-    ],
-    "Garrafa": [
+  "Refrigerante": [
       {
         "id": 11,
         "marca": "fanta",
@@ -74,10 +32,8 @@
         "marca": "coca-cola",
         "preco": 12.00
       } 
-    ]
-  },
-  "Cerveja": {
-    "Lata": [
+    ],
+  "Cerveja": [
       {
         "id": 100,
         "marca": "skol",
@@ -89,5 +45,4 @@
         "preco": 3.00
       }
     ]
-  }
 }
