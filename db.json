@@ -4,44 +4,44 @@
         {
           "id": 1,
           "marca": "laranja",
-          "preço": 5.00
+          "preco": 5.00
         },
         {
           "id": 2,
           "marca": "abacaxi",
-          "preço": 5.60
+          "preco": 5.60
         },
         {
           "id": 3,
           "marca": "manga",
-          "preço": 5.20
+          "preco": 5.20
         },
         {
           "id": 4,
           "marca": "morango",
-          "preço": 5.10
+          "preco": 5.10
         }
       ],
       "Lata": [
         {
           "id": 5,
           "marca": "laranja",
-          "preço": 3.00
+          "preco": 3.00
         },
         {
           "id": 6,
           "marca": "abacaxi",
-          "preço": 3.60
+          "preco": 3.60
         },
         {
           "id": 7,
           "marca": "manga",
-          "preço": 3.20
+          "preco": 3.20
         },
         {
           "id": 8,
           "marca": "morango",
-          "preço": 3.10
+          "preco": 3.10
         }
       ]
   },
@@ -50,29 +50,29 @@
       {
         "id": 10,
         "marca": "fanta",
-        "preço": 5.00
+        "preco": 5.00
       },
       {
         "id": 20,
         "marca": "coca-cola",
-        "preço": 5.50
+        "preco": 5.50
       },
       {
         "id": 30,
         "marca": "antartica",
-        "preço": 4.50
+        "preco": 4.50
       }
     ],
     "Garrafa": [
       {
         "id": 11,
         "marca": "fanta",
-        "preço": 10.00
+        "preco": 10.00
       },
       {
         "id": 21,
         "marca": "coca-cola",
-        "preço": 12.00
+        "preco": 12.00
       } 
     ]
   },
@@ -81,12 +81,12 @@
       {
         "id": 100,
         "marca": "skol",
-        "preço": 3.50
+        "preco": 3.50
       },
       {
         "id": 200,
         "marca": "bhrama",
-        "preço": 3.00
+        "preco": 3.00
       }
     ]
   }
