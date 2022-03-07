@@ -10,5 +10,17 @@
       "marca": "Brahma",
       "preco": 2.75
     }
+  ],
+  "Refrigerante": [
+    {
+      "id": 3,
+      "marca": "Coca-Cola",
+      "preco": 3.75
+    },
+    {
+      "id": 4,
+      "marca": "Kuat",
+      "preco": 3.20
+    }
   ]
 }
