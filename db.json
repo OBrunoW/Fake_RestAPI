@@ -2,25 +2,25 @@
   "Cerveja": [
     {
       "id": 1,
-      "marca": "Skol",
-      "preco": 3.50
+      "nome": "Skol",
+      "valor": 3.50
     },
     {
       "id": 2,
-      "marca": "Brahma",
-      "preco": 2.75
+      "nome": "Brahma",
+      "valor": 2.75
     }
   ],
   "Refrigerante": [
     {
       "id": 3,
-      "marca": "Coca-Cola",
-      "preco": 3.75
+      "nome": "Coca-Cola",
+      "valor": 3.75
     },
     {
       "id": 4,
-      "marca": "Kuat",
-      "preco": 3.30
+      "nome": "Kuat",
+      "valor": 3.30
     }
   ]
 }
