@@ -1,26 +1,26 @@
 {
   "Cerveja": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Skol",
-      "valor": 3.50
+      "valor": "3.50"
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Brahma",
-      "valor": 2.75
+      "valor": "2.75"
     }
   ],
   "Refrigerante": [
     {
-      "id": 3,
+      "id": "3",
       "nome": "Coca-Cola",
-      "valor": 3.75
+      "valor": "3.75"
     },
     {
-      "id": 4,
+      "id": "4",
       "nome": "Kuat",
-      "valor": 3.30
+      "valor": "3.30"
     }
   ]
 }
