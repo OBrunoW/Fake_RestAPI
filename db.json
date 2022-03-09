@@ -1,38 +1,35 @@
 {
-  "Cerveja": [
-    {
-      "nome": "Skol",
-      "valor": "3.50",
-      "categoria": "Cerveja"
-    },
-    {
-      "nome": "Brahma",
-      "valor": "2.75",
-      "categoria": "Cerveja"
-    }
-  ],
-  "Refrigerante": [
-    {
-      "nome": "Coca-Cola",
-      "valor": "3.75",
-      "categoria": "Refrigerante"
-    },
-    {
-      "nome": "Kuat",
-      "valor": "3.30",
-      "categoria": "Refrigerante"
-    }
-  ],
-  "Espetinho": [
-    {
-      "nome": "Carne",
-      "valor": "5.00",
-      "categoria": "Espetinho"
-    },
-    {
-      "nome": "Queijo",
-      "valor": "3.80",
-      "categoria": "Espetinho"
-    }
-  ]
+	"Cerveja": [{
+			"nome": "Skol",
+			"valor": "3.50",
+			"categoria": "Cerveja"
+		},
+		{
+			"nome": "Brahma",
+			"valor": "2.75",
+			"categoria": "Cerveja"
+		}
+	],
+	"Refrigerante": [{
+			"nome": "Coca-Cola",
+			"valor": "3.75",
+			"categoria": "Refrigerante"
+		},
+		{
+			"nome": "Kuat",
+			"valor": "3.30",
+			"categoria": "Refrigerante"
+		}
+	],
+	"Espetinho": [{
+			"nome": "Carne",
+			"valor": "5.00",
+			"categoria": "Espetinho"
+		},
+		{
+			"nome": "Queijo",
+			"valor": "3.80",
+			"categoria": "Espetinho"
+		}
+	]
 }
